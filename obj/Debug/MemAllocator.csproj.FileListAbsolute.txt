@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.Properties.Resources.resources
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MemAllocator\bin\Debug\MemAllocator.exe.config
+C:\Users\DELL\source\repos\MemAllocator\bin\Debug\MemAllocator.exe
+C:\Users\DELL\source\repos\MemAllocator\bin\Debug\MemAllocator.pdb
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.exe
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.pdb
+C:\Users\DELL\source\repos\MemAllocator\obj\Debug\MemAllocator.memAllocator.resources
